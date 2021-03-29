@@ -1,0 +1,2 @@
+module imageProxy_StatePattern {
+}
